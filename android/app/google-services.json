@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428556533438",
+    "project_id": "basic-operations-firebase-app",
+    "storage_bucket": "basic-operations-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428556533438:android:ca8f8908e561b870c468ef",
+        "android_client_info": {
+          "package_name": "com.example.basic_operations_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1Mr83kPH092HHoHfKvM166Q7NosDOy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
