@@ -10,7 +10,8 @@ Future<void> main () async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   runApp(MaterialApp(
-    initialRoute: AppRoutes.homePage,
+    debugShowCheckedModeBanner: false,
+    initialRoute: AppRoutes.loginPage,
     routes: AppRoutes().define(),
   ));
 }
